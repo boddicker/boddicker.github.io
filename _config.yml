@@ -1,8 +1,8 @@
 # Site settings
 title:       skill.Build
-email:       caleb@boddicker.com
+email:       
 author:      Caleb Boddicker
-description: "Poker. Code. Learn."
+description: "A site about poker, programming, and learning."
 baseurl:     ""
 url:         "http://boddicker.github.io"
 
