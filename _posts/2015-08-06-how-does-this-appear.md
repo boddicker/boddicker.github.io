@@ -1,5 +1,3 @@
-# Testing a H1. Where is the post title?
-
 Animi animi quo at aspernatur quasi. Eligendi placeat et porro qui repudiandae. *Qui et eos aperiam* et vel ut asperiores. Animi animi quo at aspernatur quasi. Eligendi placeat et porro qui repudiandae. Qui et eos aperiam et vel ut asperiores.
 
 ### Testing an H3
