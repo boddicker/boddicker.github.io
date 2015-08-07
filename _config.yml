@@ -13,7 +13,7 @@ google_analytics:
 animated:           true
 show_related_posts: false
 show_post_footers:  false
-show_social_icons:  false
+show_social_icons:  true
 
 # Disqus post comments
 # (leave blank to disable Disqus)
@@ -49,7 +49,7 @@ share_hackernews: false
 markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
-permalink:    pretty
+permalink:    none
 paginate:     4
 sass:
   compressed: true
