@@ -4,7 +4,7 @@ email:
 author:      Caleb Boddicker
 description: "A site about poker, programming, and learning."
 baseurl:     ""
-url:         "http://boddicker.github.io"
+url:         "http://skill.build"
 
 # Google analytics
 google_analytics:
@@ -13,7 +13,7 @@ google_analytics:
 animated:           true
 show_related_posts: false
 show_post_footers:  false
-show_social_icons:  true
+show_social_icons:  false
 
 # Disqus post comments
 # (leave blank to disable Disqus)
