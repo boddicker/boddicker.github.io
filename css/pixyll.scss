@@ -2,9 +2,6 @@
 # The scss file which include files from _sass/
 ---
 @charset "utf-8";
-.catbloc:not(:target) {
-    display: none;
-}
 
 /*!
 * Pixyll - A simple, beautiful Jekyll theme that's mobile first.
@@ -21,6 +18,7 @@
 
 @import 'links';
 @import 'positions';
+@import 'catbloc';
 @import 'clearfix';
 @import 'code';
 @import 'forms';
