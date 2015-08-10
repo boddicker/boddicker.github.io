@@ -5,9 +5,9 @@ permalink: /about/
 ---
 <blockquote>
   <p>
-The reality is that expert performance requires an effortful commitment to learning. The perfect practice that makes perfect is sustained by a laboring instinct and a drive to reach perfection. But what sustains that laboring instinct?
+    The reality is that expert performance requires an effortful commitment to learning. The perfect practice that makes perfect is sustained by a laboring instinct and a drive to reach perfection. But what sustains that laboring instinct?
   </p>
-<footer><cite title=“Brett Steenbarger”>Brett Steenbarger, “Enhancing Trader Performance”</cite></footer>
+  <footer><cite title="Brett Steenbarger">Brett Steenbarger, "Enhancing Trader Performance"</cite></footer>
 </blockquote>
 
 Hi,
