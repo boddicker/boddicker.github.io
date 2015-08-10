@@ -5,14 +5,14 @@ permalink: /about/
 ---
 <blockquote>
   <p>
-The key to pursuing excellence is to embrace an organic, long-term learning process, and not to live in a shell of static, safe mediocrity. Usually, growth comes at the expense of previous comfort or safety.
+The reality is that expert performance requires an effortful commitment to learning. The perfect practice that makes perfect is sustained by a laboring instinct and a drive to reach perfection. But what sustains that laboring instinct?
   </p>
-  <footer><cite title="Josh Waitzkin">Josh Waitzkin</cite></footer>
+  <footer><cite title=“Brett Steenbarger“>Brett Steenbarger, <em>Enhancing Trader Performance</em></cite></footer>
 </blockquote>
 
 Hi,
 
-skill.Build is a record of my thoughts, pursuits, and interests. I'll write about poker, coding, coffee, minimalism, travel, and other stuff.  
+skill.Build is a record of my thoughts, pursuits, and interests. I'll write about poker, coding, coffee, minimalism, reading, travel, and other stuff.  
 
 This site was built with Jekyll, a static-site generator. Thanks to John Otander for creating the [theme](https://github.com/johnotander/pixyll) powering the site.
 
