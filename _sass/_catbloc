@@ -1,3 +1,0 @@
-.catbloc:not(:target) {
-    display: none;
-}
