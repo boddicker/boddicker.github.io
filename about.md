@@ -10,9 +10,9 @@ permalink: /about/
   <footer><cite title="Brett Steenbarger">Brett Steenbarger, "Enhancing Trader Performance"</cite></footer>
 </blockquote>
 
-Hi,
+Hello!
 
-skill.Build is a record of my thoughts, pursuits, and interests. I'll write about poker, coding, coffee, books, minimalism, travel, and other stuff.  
+skill.Build is a record of my thoughts, pursuits, and interests. I'll write about poker, coding, productivity, coffee, books, minimalism, travel, and other stuff.  
 
 This site was built with Jekyll, a static-site generator. Thanks to John Otander for creating the [theme](https://github.com/johnotander/pixyll) powering the site.
 
