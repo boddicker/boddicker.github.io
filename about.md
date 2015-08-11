@@ -12,7 +12,7 @@ permalink: /about/
 
 Hello!
 
-skill.Build is a record of my thoughts, pursuits, and interests. I'll write about poker, coding, productivity, coffee, books, minimalism, travel, and other stuff.  
+skillBuild is a record of my thoughts, pursuits, and interests. I'll write about poker, coding, productivity, coffee, books, minimalism, travel, and other stuff.  
 
 This site was built with Jekyll, a static-site generator. Thanks to John Otander for creating the [theme](https://github.com/johnotander/pixyll) powering the site.
 
