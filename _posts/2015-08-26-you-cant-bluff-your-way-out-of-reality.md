@@ -16,6 +16,6 @@ Your image is fluid. It is not chained to this moment. Your ego should not be ch
 
 Let your opponents underestimate your play after two hours of inaction. Exploit their misperceptions. Their opinion will evolve as soon as your holdings change. Images are malleable, so what benefit exists in playing trash hands out of sheer boredom? 
 
-After mounting inaction some live players (maybe even most) get the notion to "open up" and "give action". So, they limp-call J5s from the UTG for no particular reason, or they open QTo in MP. Unpredictability is good, but unpredictability arising from irritability, not strategic thought, is a recipe for donation. 
+After mounting inaction some live players (maybe even most) get the notion to "open up" and "give action". So, they limp-call J5s from UTG for no particular reason, or they open QTo in MP. Unpredictability is good, but unpredictability arising from irritability, not strategic thought, is a recipe for donation. 
 
 These struggling players underestimate the fluidity of their image from moment-to-moment, exposing themselves to pointless risk. They invite permanent loss into their lives for unsound reasons related to their non-permanent image. They feel limited by their cards, and they are, yet they don't accept it. So they do stupid things. But you can't force reality to be anything but what it is. Your cards are your cards. Reality *is* and you *usually* can't bluff your way out of it.
