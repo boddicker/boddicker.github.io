@@ -1,0 +1,13 @@
+<!doctype html><meta charset="utf-8"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width"><title>.</title>
+<!-- Faro: opens a working-copy:// action passed after the #. The fragment never reaches the server; only working-copy:// targets are followed. -->
+<p id="m" style="font:16px -apple-system,sans-serif;padding:24px">Opening Working Copy…</p>
+<script>
+var u = decodeURIComponent(location.hash.slice(1));
+if (/^working-copy:\/\/x-callback-url\//.test(u)) {
+  history.replaceState(null, "", location.pathname);
+  location.replace(u);
+  document.getElementById("m").innerHTML = 'If nothing happened, <a href="' + u.replace(/"/g, "&quot;") + '">tap here</a>.';
+} else {
+  document.getElementById("m").textContent = "Nothing to open.";
+}
+</script>
